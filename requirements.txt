@@ -1,3 +1,4 @@
+langchain
 langchain_openai 
 langchain_core
 python-dotenv
@@ -18,3 +19,5 @@ langchain-groq
 wikipedia
 arxiv
 langchainhub
+langchain-objectbox
+langchain-text-splitters
